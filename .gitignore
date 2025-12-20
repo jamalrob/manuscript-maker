@@ -1,0 +1,9 @@
+# Generated outputs
+output/
+
+# Generated documents
+*.docx
+*.pdf
+
+# OS / editor noise
+.DS_Store
