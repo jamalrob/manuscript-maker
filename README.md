@@ -15,13 +15,18 @@ DOCX files.
 
 ```
 manuscript-maker/
+├── Makefile
 ├── output
-│   └── shunn
-│       └── example-story.docx
+│   ├── shunn-classic
+│   │   └── example-story.docx
+│   └── shunn-modern
 ├── README.md
 ├── scripts
 ├── standards
-│   └── shunn
+│   ├── shunn-classic
+│   │   ├── metadata.yaml
+│   │   └── reference.docx
+│   └── shunn-modern
 │       ├── metadata.yaml
 │       └── reference.docx
 ├── templates
