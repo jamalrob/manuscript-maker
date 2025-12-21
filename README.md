@@ -1,8 +1,6 @@
 # manuscript-maker
 
-A minimal, reproducible workflow for writing prose in Markdown and producing
-submission-ready manuscripts (e.g. Shunn format) using Pandoc and reference
-DOCX files.
+A minimal, reproducible workflow for writing prose in Markdown and producing submission-ready manuscripts (e.g. Shunn format) using Pandoc and reference DOCX files.
 
 ## Goals
 
@@ -18,7 +16,6 @@ manuscript-maker/
 ├── Makefile
 ├── output
 │   ├── shunn-classic
-│   │   └── example-story.docx
 │   └── shunn-modern
 ├── README.md
 ├── scripts
@@ -41,12 +38,7 @@ manuscript-maker/
 
 ## Example
 
-```bash
-pandoc works/example-story.md \
-  --reference-doc=standards/shunn/reference.docx \
-  --metadata-file=standards/shunn/metadata.yaml \
-  -o output/shunn/example-story.docx
-```
+Run `make shunn-classic` or `make shunn-modern`. These will generate the appropriate Shunn-formatted DOCX manuscripts in the `output` directory for all markdown files in the `works`.
 
 ## Submission standards
 
@@ -64,5 +56,23 @@ Currently supported:
 - **shunn-modern**  
   Contemporary Shunn-style manuscript using a proportional serif font.
 
-The same Markdown source can be rendered against different standards
-without modification.
+The same Markdown source can be rendered against different standards without modification.
+
+
+## Creating and modifying submission standards
+
+Submission standards are defined by a pair of files:
+
+- `reference.docx` — a Word document containing the formatting rules
+- `metadata.yaml` — small Pandoc metadata overrides
+
+The reference documents are created using Pandoc’s default reference file and then edited in Word or LibreOffice by modifying paragraph styles (e.g. Normal, Title, Subtitle, Header). This is intended as a one-time setup step; the reference documents are treated as first-class inputs and are version controlled.
+
+Only a small number of styles typically matter for prose submissions. The intent is to keep formatting rules explicit and out of the manuscript text itself.
+
+This repository includes two worked examples:
+- `shunn-classic` (monospaced)
+- `shunn-modern` (proportional serif)
+
+New standards can be created by copying and adapting an existing one.
+
