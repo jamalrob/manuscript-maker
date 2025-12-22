@@ -73,12 +73,13 @@ The same Markdown source can be rendered against different standards without mod
 
 ## Creating and modifying submission standards
 
-Submission standards are defined by a pair of files:
+The reference documents are created by exporting Pandoc’s default DOCX reference file and then editing it in Word or LibreOffice by modifying a small number of paragraph styles (e.g. Normal, Title, Subtitle, Header). This is intended as a one-time setup step; the reference documents are treated as first-class inputs and are version controlled. 
 
-- `reference.docx` — a Word document containing the formatting rules
-- `metadata.yaml` — small Pandoc metadata overrides
+The initial reference file can be generated with:
 
-The reference documents are created using Pandoc’s default reference file and then edited in Word or LibreOffice by modifying paragraph styles (e.g. Normal, Title, Subtitle, Header). This is intended as a one-time setup step; the reference documents are treated as first-class inputs and are version controlled.
+```bash
+pandoc --print-default-data-file reference.docx > reference.docx
+```
 
 Only a small number of styles typically matter for prose submissions. The intent is to keep formatting rules explicit and out of the manuscript text itself.
 
