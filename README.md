@@ -38,7 +38,7 @@ manuscript-maker/
 
 ## Example
 
-Run:
+In project root, run:
 
 ```bash
 make shunn-classic
