@@ -38,7 +38,19 @@ manuscript-maker/
 
 ## Example
 
-Run `make shunn-classic` or `make shunn-modern`. These will generate the appropriate Shunn-formatted DOCX manuscripts in the `output` directory for all markdown files in the `works`.
+Run:
+
+```bash
+make shunn-classic
+```
+
+Or:
+
+```bash
+make shunn-modern
+```
+
+These will generate a Shunn-formatted DOCX manuscript in `output/` for each markdown file in `works/`.
 
 ## Submission standards
 
