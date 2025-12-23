@@ -85,8 +85,8 @@ Only a small number of styles typically matter for prose submissions. The intent
 
 This repository includes two worked examples:
 
-  • shunn-classic (monospaced)
-  • shunn-modern (proportional serif)
+- shunn-classic (monospaced)
+- shunn-modern (proportional serif)
 
 The reference DOCX files are designed for use with Pandoc’s DOCX output and have been developed and tested using LibreOffice.
 
