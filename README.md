@@ -107,7 +107,7 @@ Examples include:
   :::
   ```
 
-  This isused to force explicit section breaks and style transitions that cannot be expressed semantically in Markdown alone, in this context.
+  This is used to force explicit section breaks and style transitions that cannot be expressed semantically in Markdown alone, in this context.
 
 By necessity, these choices prioritize predictable layout and submission compliance over strict Markdown semantic purity.
 
