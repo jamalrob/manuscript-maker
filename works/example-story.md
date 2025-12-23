@@ -1,3 +1,7 @@
+---
+keyword: Example
+---
+
 > Author Name  
 > email.address@domain.com  
 > About XXXX words  
