@@ -18,7 +18,6 @@ manuscript-maker/
 │   ├── shunn-classic
 │   └── shunn-modern
 ├── README.md
-├── scripts
 ├── standards
 │   ├── shunn-classic
 │   │   ├── metadata.yaml
