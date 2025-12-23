@@ -84,8 +84,32 @@ pandoc --print-default-data-file reference.docx > reference.docx
 Only a small number of styles typically matter for prose submissions. The intent is to keep formatting rules explicit and out of the manuscript text itself.
 
 This repository includes two worked examples:
-- `shunn-classic` (monospaced)
-- `shunn-modern` (proportional serif)
 
-New standards can be created by copying and adapting an existing one.
+  • shunn-classic (monospaced)
+  • shunn-modern (proportional serif)
 
+The reference DOCX files are designed for use with Pandoc’s DOCX output and have been developed and tested using LibreOffice.
+
+They should open and function in Microsoft Word, but layout and style editing has not been formally tested there. Users working primarily in Word may need to make small adjustments.
+
+### Notes on Markdown usage
+
+This project targets reliable DOCX output via Pandoc. As a result, some Markdown constructs are used as deliberate workarounds for limitations in Pandoc’s DOCX writer and Word-style document models.
+
+Examples include:
+
+- Blockquotes used to trigger the "Block Text" paragraph style for Shunn front-matter (name / email / word count), ensuring single spacing independent of body paragraph settings.
+
+- Raw Pandoc blocks such as:
+
+  ```
+  ::: {custom-style="section-break"}
+  \#
+  :::
+  ```
+
+  This isused to force explicit section breaks and style transitions that cannot be expressed semantically in Markdown alone, in this context.
+
+By necessity, these choices prioritize predictable layout and submission compliance over strict Markdown semantic purity.
+
+See `works/example-story.md` to see these constructs in context.
