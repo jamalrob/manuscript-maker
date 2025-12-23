@@ -92,7 +92,7 @@ The reference DOCX files are designed for use with Pandoc’s DOCX output and ha
 
 They should open and function in Microsoft Word, but layout and style editing has not been formally tested there. Users working primarily in Word may need to make small adjustments.
 
-### Notes on Markdown usage
+## Notes on Markdown usage
 
 This project targets reliable DOCX output via Pandoc. As a result, some Markdown constructs are used as deliberate workarounds for limitations in Pandoc’s DOCX writer and Word-style document models.
 
