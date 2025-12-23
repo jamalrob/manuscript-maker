@@ -1,5 +1,10 @@
 # Generated outputs
 output/
 
+# Stories
+*.md
+!example-story.md
+
+
 # OS / editor noise
 .DS_Store
