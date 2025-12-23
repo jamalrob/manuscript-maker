@@ -13,7 +13,7 @@ output/shunn-classic/%.docx: works/%.md standards/shunn-classic/reference.docx s
 	pandoc $< \
 	  --reference-doc=standards/shunn-classic/reference.docx \
 	  --metadata-file=standards/shunn-classic/metadata.yaml \
-		-f markdown-smart \
+		-f markdown-smart+fenced_divs \
 	  -o $@
 
 output/shunn-modern/%.docx: works/%.md standards/shunn-modern/reference.docx standards/shunn-modern/metadata.yaml
@@ -21,5 +21,5 @@ output/shunn-modern/%.docx: works/%.md standards/shunn-modern/reference.docx sta
 	pandoc $< \
 	  --reference-doc=standards/shunn-modern/reference.docx \
 	  --metadata-file=standards/shunn-modern/metadata.yaml \
-		-f markdown-smart \
+		-f markdown-smart+fenced_divs \
 	  -o $@

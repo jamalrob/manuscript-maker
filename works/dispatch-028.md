@@ -14,13 +14,17 @@
 
 DISPATCH TO THE HOLY CUSTODIAN / SECOND CYCLE / ON THE FEAST OF THE PROCESSION OF THE LIFE-GIVING CROSS (AUGUST 1st) / IN THE YEAR OF OUR LORD 1999
 
-\*\*\*
+::: {custom-style="section-break"}
+\#
+:::
 
 Further to our reports concerning the disappearances of Russian nationals in Glasgow, Scotland, we present here a supporting narrative based on our own supervisory oversight, specifically regarding the case of Ivanov. We ask that any prideful exercise of poetic license be met with the esteemed Custodian’s gracious understanding.
 
 We shall interpolate the relevant excerpts from the transcript of conversations between the two Observers assigned to the case, Hieromonk Theophanes and Novice Makarios. This is not only for context, but also to shine a light on the operation’s failures and more generally on the privation of monastic commitment and decorum in the earthly Brotherhoods of Holy Orthodoxy.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 BROTHER OBSERVER MAKARIOS: Where is Father Yuri? I thought he was meeting Ivanov and taking him to the church?
 
@@ -50,7 +54,9 @@ MAKARIOS: You are a paragon of fairness, Father.
 
 THEOPHANES: Now, kindly keep your eyes to your Sightglass and allow me to do likewise.  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 And here he is: Ivanov, wandering in quiet business district streets. It is getting close to the close of the twentieth century. It is mostly empty buildings and empty corner cafés, all closed, because it is Sunday in the business district. It has been hot and dry for many days, and the as-yet unswept and unhosed working week’s dust rises and falls with the tabloid pages and bus tickets in the street-funnelled breezes, golden where caught in chinks of sunlight admitted by gaps up high.
 
@@ -104,7 +110,9 @@ Crawford laughs too, then gathers up the plank of wood, the saw, and the clamp, 
 
 Out on the street, they mount the boards and head West.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 MAKARIOS: How do I--
 
@@ -123,7 +131,9 @@ MAKARIOS: It’s just empty offices.
 THEOPHANES: It is worse than merely impertinent for a servant of the Lord to lay claim to omniscience. It is just empty offices as far as you know, which is not very far. The Sightglass is limited, and certainty is always elusive. Ivanov is by no means out of the woods yet.
 
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 The surface is smooth, but Ivanov has never been on a skateboard and struggles to keep up and stay on. He is going as fast as he can, but Crawford is now far ahead.  
 
@@ -180,7 +190,9 @@ A woman’s voice from the street behind him. He stands up straight and looks ar
 “Then just let me talk to you for a minute. Please.”  
 As he returns to the street she stands there biting her fingernails, her eyes fixed on him.  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 THEOPHANES: It’s her.
 
@@ -203,7 +215,9 @@ THEOPHANES: Your naivety is almost endearing. These days, we and the Intercessor
 
 MAKARIOS: I have a bad feeling about this, Father.  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 “Your knee is bleeding,” the woman says.
 
@@ -241,7 +255,9 @@ He looks down at his bare arm, where she held him. He does not know if he can re
 
 And the sand between his toes. And in the evening, Katya’s look of concentration as she balmed his sunburnt ears with beeswax.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 MAKARIOS: Father, I’m having trouble seeing inside.
 
@@ -276,7 +292,9 @@ THEOPHANES: Right now, I find I am needing a drink. There’s nothing to see at 
 
 MAKARIOS: Go on then, you’ve twisted my arm.  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 Ivanov hears her approaching. The door opens a fraction, and then there is silence. She is watching him from the corridor, holding her breath. It might be a matter of only a few seconds, but time has become distended, an abyssal dream of temporality. 
 
@@ -331,7 +349,9 @@ When it is done, they go to the sink to wash off the blood, gristle, and splinte
 
 “I’ll come with you.”  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 As they walk down the alley to the tunnel, Ivanov asks, “Why did you return?”
 
@@ -339,7 +359,9 @@ As they walk down the alley to the tunnel, Ivanov asks, “Why did you return?�
 
 Later, having parted with Father Alexei and Crawford, Ivanov mounts his battered, bloody skateboard--which, being of good quality, is still running smoothly--and heads back to the skateshop, riding now with confidence and grace. There is plenty of time to get to the shop before five thirty, so when he reaches the top of the bridge he stops for a while to enjoy the view.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 THEOPHANES: One of us should be watching.
 
@@ -367,13 +389,17 @@ MAKARIOS: I don’t feel well, Father. I shall go to my repose, with God’s ble
 
 THEOPHANES: Well and good. Oh and don’t bother with Vespers or Midnight Office. I’ll tell them you’re ill. Go with God, Brother--but pass me that bottle first.  
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 Ivanov has chosen a window seat on the right side of the plane so he can see the Zhiguli mountains during the descent to Samara. But they are no more than hills to him now. Maybe Timur was right. Timur used to annoy everyone in geography class, including the teacher, by insisting that they were not mountains at all, that if they wanted to see mountains they ought to go to the Altai and the Tian Shan. Timur had not been to those places but his father had. Ivanov has now been to those places--and to the Caucasus, the Alps, the Andes and the Rockies--and sees that Timur had a point.
 
 At the airport he calls Katya to say he has landed and will see her in an hour. He tells her to open a window and hang some garlic around the door. She laughs and says he is crazy, but he insists.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 FOLLOW-UP ON KEY INDIVIDUALS
 
@@ -385,7 +411,9 @@ Donald Crawford, though not a member of the community of the faithful, nor even 
 
 As for Ivanov himself, we give praise that his soul was safeguarded on this occasion, and although we shall not take liberties with our role by attempting a full prophecy, all indications are that the couple will go on to be happy and fruitful in a log cabin surrounded on three sides by birch and pine, with Our Lady of Kazan placed over the cradle of their child and a view across the river to the Zhiguli mountains, if they are indeed mountains.
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 CONCLUSION
 
@@ -402,7 +430,9 @@ In Service and Humility,
 
 Ithuriel, Senior Overseer, Observation and Intervention (UK)
 
-\*\*\*  
+::: {custom-style="section-break"}
+\#
+:::
 
 APPENDIX: Proper Destruction and Disposal of an Upyr
 
